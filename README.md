@@ -6,8 +6,9 @@
 
 Using multiple linear regression (results below), it can be shown that vehicle length and ground clearance play large roles in fuel efficiency for the MechaCar prototypes, while the vehicle's weight may have a slight effect, although it is much less significant. Additionally, the statistical importance of the intercept indicates that the data is missing factors that provide significant non-random variance to the fuel efficiency. 
 
-<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/mpgLRsummary.png'>
 ###### Results from the multiple linear regression analysis performed on the MechaCar prototypes dataset.
+
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/mpgLRsummary.png'>
 
 #### Is the slope of the linear model considered to be zero? Why or why not?
 
