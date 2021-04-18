@@ -44,12 +44,12 @@ However, further analysis on the coils from each lot is needed. For t-tests perf
 
 ###### Lot 1 T-Test Results
 
-<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot1_ttest.png'>
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot1_ttest.png' width=400>
 
 ###### Lot 2 T-Test Results
 
-<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot2_ttest.png'>
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot2_ttest.png' width=400>
 
 ###### Lot 3 T-Test Results
 
-<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot3_ttest.png'>
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot3_ttest.png' width=400>
