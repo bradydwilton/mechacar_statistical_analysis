@@ -22,9 +22,11 @@ Although this model has strong fit, as indicated by the r-squared value of 0.71,
 The summary statistics on suspension coils from three different manufacturing lots are shown below.
 
 <img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/total_summary.png'>
+
 ###### Summary statistics for the entire dataset
 
 <img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot_summary.png'>
+
 ###### Summary Statistics for each individual manufacturing lot
 
 The summary statistics of the entire population indicates that there are no issues with the suspension coils, based on the requirement of less than 100 PSI variance between coils. However, after grouping the coils together based on manufacturing lot, it can be seen that Manufacturing Lot 3 does not meet the criteria and should not be further used for the MechaCar project.
