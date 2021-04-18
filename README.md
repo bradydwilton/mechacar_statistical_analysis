@@ -26,9 +26,30 @@ The summary statistics on suspension coils from three different manufacturing lo
 
 <img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/total_summary.png'>
 
-###### Summary Statistics for each individual manufacturing lot
+###### Summary statistics for each individual manufacturing lot
 
 <img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot_summary.png'>
 
 The summary statistics of the entire population indicates that there are no issues with the suspension coils, based on the requirement of less than 100 PSI variance between coils. However, after grouping the coils together based on manufacturing lot, it can be seen that Manufacturing Lot 3 does not meet the criteria and should not be further used for the MechaCar project.
 
+## T-Tests on Suspension Coils
+
+The t-test across all manufacturing lots, using a random sample of 100 coils from the dataset, provided a p-value of 0.29, much higher than any significance level that would be needed to reject the null hypothesis. This indicates that of the entire lot, the effect of any coil on the group average is random.
+
+###### T-Test across suspension coils from all manufacturing lots
+
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/all_lots_ttest.png'>
+
+However, further analysis on the coils from each lot is needed. For t-tests performed on both lots 1 and 2, the p-values are sufficiently small to reject the null hypothesis. Lot 3, however, has a p-value of 0.16, which leads to the rejection of the null hypothesis. This is further indication that the quality of suspension coils from Manufacturing Lot 3 is not up to the standards needed for the MechaCar project.
+
+###### Lot 1 T-Test Results
+
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot1_ttest.png'>
+
+###### Lot 2 T-Test Results
+
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot2_ttest.png'>
+
+###### Lot 3 T-Test Results
+
+<img src='https://github.com/bradydwilton/mechacar_statistical_analysis/blob/main/images/lot3_ttest.png'>
